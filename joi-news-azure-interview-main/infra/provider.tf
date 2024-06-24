@@ -12,7 +12,7 @@ terraform {
     resource_group_name  = "news4321_rg_joi_interview"
     storage_account_name = "newspk4321sajoiinterview"
     container_name       = "news4321terraformcontainerjoiinterview"
-    key                  = "base/terraform.tfstate"
+    key                  = "terraform.tfstate"
   }
 }
 
